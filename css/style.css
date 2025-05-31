@@ -28,9 +28,13 @@ h4{
     margin: 20px 0;
     font-weight: 600;
 }
+
 h3{
     margin: 20px 0;
     font-weight: 600;
+}
+nav{
+    padding-top: 10px;
 }
 .container{
    width: 100%;
